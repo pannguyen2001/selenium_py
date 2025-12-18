@@ -6,7 +6,7 @@ Author: Pham Anh Nhat
 
 - Python version: 3.14
 - Selenium doc: https://selenium-python.readthedocs.io/installation.html#introduction
-- Github: 
+- Github: https://github.com/pannguyen2001/selenium_py.git
 - Note: https://yjpniq7uisce.jp.larksuite.com/docx/NYW3dru4roYS7fxvwUBju1LZpHe
 
 1. Create virtual environment
@@ -19,7 +19,7 @@ source .venv/bin/activate
 # or:
 .\.venv\Scripts\Activate.ps
 ```
-3. Install playwright
+3. Install selenium
 ```
 pip install selenium
 ```
