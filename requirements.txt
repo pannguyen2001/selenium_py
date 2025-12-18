@@ -1,0 +1,6 @@
+# For testing
+selenium
+# For logger
+loguru
+# For debug
+snoop
