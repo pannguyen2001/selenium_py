@@ -1,6 +1,12 @@
 # For testing
 selenium
+pytest
 # For logger
 loguru
 # For debug
 snoop
+# Other
+pytz
+pandas
+openpyxl
+python_calamine
